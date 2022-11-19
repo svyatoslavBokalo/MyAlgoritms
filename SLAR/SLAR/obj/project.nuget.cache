@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPPFGUlpE+Se4syw/rqEfCEoN4xSUBKDZ7S1QI94BclTCaRtNP8sMZWMCDBBUKKONgrgAK1aPFeuqQ9y4pFkmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\Svyatoslav\\C#\\COPY_SLAR\\SLAR\\SLAR\\SLAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

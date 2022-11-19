@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\bin\Debug\net6.0-windows\GrafAttemptWindowsForm.exe
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\bin\Debug\net6.0-windows\GrafAttemptWindowsForm.deps.json
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\bin\Debug\net6.0-windows\GrafAttemptWindowsForm.runtimeconfig.json
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\bin\Debug\net6.0-windows\GrafAttemptWindowsForm.dll
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\bin\Debug\net6.0-windows\GrafAttemptWindowsForm.pdb
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.Form1.resources
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.dll
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\refint\GrafAttemptWindowsForm.dll
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.pdb
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\GrafAttemptWindowsForm.genruntimeconfig.cache
+C:\Users\PC\source\repos\C#\MyWork\GrafAttemptWindowsForm\GrafAttemptWindowsForm\obj\Debug\net6.0-windows\ref\GrafAttemptWindowsForm.dll

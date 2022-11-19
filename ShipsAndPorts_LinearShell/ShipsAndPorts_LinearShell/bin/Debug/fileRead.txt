@@ -1,0 +1,3 @@
+D:\\Sviatoslav\\C#\\ShipsAndPorts_LinearShell\\ShipsAndPorts_LinearShell\\bin\\Debug\\data1.txt
+D:\\Sviatoslav\\C#\\ShipsAndPorts_LinearShell\\ShipsAndPorts_LinearShell\\bin\\Debug\\data2.txt
+D:\\Sviatoslav\\C#\\ShipsAndPorts_LinearShell\\ShipsAndPorts_LinearShell\\bin\\Debug\\data3.txt

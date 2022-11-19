@@ -1,0 +1,10 @@
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\bin\Debug\LinearShell(obolonka)_windowsFrom.exe.config
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\bin\Debug\LinearShell(obolonka)_windowsFrom.exe
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\bin\Debug\LinearShell(obolonka)_windowsFrom.pdb
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell_obolonka__windowsFrom.Form1.resources
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell_obolonka__windowsFrom.Properties.Resources.resources
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell(obolonka)_windowsFrom.csproj.GenerateResource.cache
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell(obolonka)_windowsFrom.csproj.CoreCompileInputs.cache
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell(obolonka)_windowsFrom.exe
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell(obolonka)_windowsFrom.pdb
+D:\Святослав\C#\LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom\obj\Debug\LinearShell(obolonka)_windowsFrom.csproj.AssemblyReference.cache

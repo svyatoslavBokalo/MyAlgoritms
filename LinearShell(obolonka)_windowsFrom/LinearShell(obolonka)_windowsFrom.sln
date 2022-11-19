@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearShell(obolonka)_windowsFrom", "LinearShell(obolonka)_windowsFrom\LinearShell(obolonka)_windowsFrom.csproj", "{6F294C92-63A0-4E80-A46A-1E9A955544F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F294C92-63A0-4E80-A46A-1E9A955544F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F294C92-63A0-4E80-A46A-1E9A955544F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F294C92-63A0-4E80-A46A-1E9A955544F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F294C92-63A0-4E80-A46A-1E9A955544F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4058EB4A-9D81-4D94-80DD-8CD174E4FEA8}
+	EndGlobalSection
+EndGlobal
